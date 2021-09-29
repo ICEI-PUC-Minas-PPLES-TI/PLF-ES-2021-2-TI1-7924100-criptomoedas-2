@@ -15,10 +15,12 @@
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|COMO UMA `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA QUE... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Matheus Almeida  | Assistir vídeos explicativos e ler artigos           | Para conhecer sobre criptomoedas               |
+|Matheus Almeida       | Estudar o surgimento das criptomoedas                 | Para entender o motivo de sua criação |
+|Matheus Almeida       |  Visualizar Informações sobre projeto                 | Saber se aquela cripto tem futuro ou e só mais uma “modinha” |
+|Matheus Almeida       |  Escrever em blogs e fóruns	                         | Discutir sobre cripto com outras pessoas
 
 
 
