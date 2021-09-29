@@ -48,16 +48,25 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| O site deve apresentar na página inicial as informações e dicas sobre o mercado de criptomoedas | ALTA | 
+|RF-002| O site deve apresentar na página inicial as cotações das principais criptomoedas   | MÉDIA |
+|RF-003| O site deve apresentar para cada criptomoeda seu valor de mercado, preço, volume de negociações e variação. |  MÉDIA | 
+|RF-004| O site deve permitir ao usuário cadastrar seu login e senha. |  ALTA | 
+|RF-005| O site deve permitir ao usuário criar seu perfil no site assim como colocar uma imagem de perfil. |  MÉDIA | 
+|RF-006| O site deve oferecer uma página adicional que permita o usuário acessar a comunidade de criptomoedas. |  MÉDIA | 
+|RF-007| O site deve permitir ao usuário criar publicações na comunidade. |  ALTA | 
+|RF-008| O site deve permitir ao usuário comentar publicações na comunidade |  MÉDIA | 
+|RF-009| O site deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar um texto específico que será informado na caixa de pesquisa. |  MÉDIA | 
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001|O site deve ser documentado em um ambiente acessível publicamente na Internet (GitHub);  | ALTA | 
+|RNF-002|O site deverá ser responsivo permitindo a visualização em qualquer dispositivo de forma adequada |  BAIXA |
+|RNF-003|O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge) |  BAIXA |
+
 
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
 > solução. Classifique esses requisitos em dois grupos:
@@ -84,7 +93,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|02| A equipe não pode subcontratar o desenvolvimento do trabalho.       |
 
 
 > Enumere as restrições à sua solução. Lembre-se de que as restrições
