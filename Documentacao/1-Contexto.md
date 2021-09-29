@@ -1,46 +1,25 @@
 # Introdução
 
-## Problema
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
->
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
->
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Do escambo colonial, passando pelo metalismo mercantilista e chegando a bolsa de valores, o ser humano como sociedade sempre buscou por melhores formas de interação monetária para validar e valorizar seu trabalho dentro da mesma. Nesse sentido, as criptomoedas deram sentido a um novo desafio contemporâneo dessa visão econômica, uma vez que, devido sua novidade, ainda causa dúvidas para comunidade internacional. Desse modo, o preconceito e a falta de informação em relação as moedas virtuais inibem que sua utilização alcance potenciais investidores.
+Além disso, levando em consideração uma sociedade altamente politizada e ideológica como o Brasil por exemplo, as criptomoedas seriam fundamentais para aqueles investidores que querem descentralizar o poder do governo sobre seu capital, já que este tipo de moeda permite que os acionistas e investidores tenham total controle sobre suas finanças.
 
-## Objetivos
+# Problema
+A partir da contextualização acima, o propósito deste trabalho é resolver o problema da difusão das informações sobre as criptomoedas.
 
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
-> 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+# Objetivos
+Este trabalho tem como objetivo a criação de um site que seja de fácil leitura para todos os tipos de usuários, juntando informações válidas sobre o mercado de criptomoedas no geral.
+# Objetivos principais:
+⦁	Fornecer aos usuários uma aba de fórum para a discussão de assuntos financeiros e envio de sugestões e perguntas para o próprio site;
 
-## Justificativa
+⦁	Permitir uma experiência personalizada, possibilitando o recebimento de notícias sobre moedas e assuntos específicos da esolha de cada usuário;
 
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+⦁	Integração com as fontes mais confiáveis sobre o marcade de criptomoedas da internet.
+
+
+# Justificativa
+De acordo com a nossa pesquisa sobre a relação da população com o mercado de criptomoedas em Setembro de 2021, foram intrevistadas 50 pessoas, e tivemos como resposta: 50% tem vontade de investir mas não possuem conhecimento; 24% já investem com ajuda de vídeos online; 15% não investem pois têm medo de perder dinheiro; 11% investem sem ajuda.
+Além disso, a ausência de um portal na internet que reúna informações do básico até o avançado sobre esse assunto, aumenta o preconceito com a área já que a população não sabe em qual fonte confiar. 
+
 
 ## Público-Alvo
 
