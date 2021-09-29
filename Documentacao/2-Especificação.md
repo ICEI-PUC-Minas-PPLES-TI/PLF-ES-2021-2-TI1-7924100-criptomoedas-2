@@ -7,8 +7,7 @@
 > realizar a especificações do projeto
 
 ## Personas
-
-![image](https://user-images.githubusercontent.com/90854566/135320159-b6b40013-0565-480e-8f8c-d6631d2a9ea4.png)
+![image](https://user-images.githubusercontent.com/90854566/135323399-7e47d972-fd84-49d4-9580-29909e098604.png)
 
 
 ## Histórias de Usuários
