@@ -8,17 +8,7 @@
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em
-se desenvolver profissionalmente através de um mestrado fora do país,
-pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está
-buscando uma agência que o ajude a encontrar universidades na Europa
-que aceitem alunos estrangeiros.
-
-
-> Enumere e detalhe as personas da sua solução. Para
-> tanto, baseie-se tanto nos documentos disponibilizados na disciplina
-> e/ou nos seguintes links:
->
+![image](https://user-images.githubusercontent.com/90854566/135320159-b6b40013-0565-480e-8f8c-d6631d2a9ea4.png)
 > **Links Úteis**:
 > - [Rock Content](https://rockcontent.com/blog/personas/)
 > - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
