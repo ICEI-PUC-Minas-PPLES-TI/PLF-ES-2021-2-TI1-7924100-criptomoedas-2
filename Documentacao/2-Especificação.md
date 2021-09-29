@@ -2,9 +2,6 @@
 
 <span style="color:red">Pré-requisitos: <a href="1-Contexto.md"> Documentação de Contexto</a></span>
 
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
 
 ## Personas
 ![image](https://user-images.githubusercontent.com/90854566/135323399-7e47d972-fd84-49d4-9580-29909e098604.png)
