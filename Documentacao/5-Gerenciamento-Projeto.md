@@ -1,37 +1,31 @@
 # Gerenciamento de Projeto
 
-> Descreva aqui a metodologia de trabalho do grupo para atacar o
-> problema.
+> Foi usado o desing thinking.
+> Design Thinking é uma abordagem de pensamento criativo. Com a ferramenta, é possível gerar e organizar ideias, assim como soluções para os problemas enfrentados pela empresa
+
 
 ## Divisão de Papéis
 
-> Apresente a divisão de papéis entre os membros do grupo.
+> Tivemos 1 lider e 2 integrantes que foram gerenciados pelo lider .
 >
 > **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
 
 ## Processo
 
-> Coloque  informações sobre detalhes da implementação do Scrum seguido
-> pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar
-> o andamento do projeto, a execução das tarefas e o status de desenvolvimento
-> da solução.
+> Primeiro fizemos pesquisas para entendermos as criptomoedas, depois da nossa pequisa ter sido feita, montamos a matriz csd e,partimos para as entrevistas, onde conseguimos montar as personas, 
+> foi usado o trello como ferramante que nos auxiliou durante o processo
 > 
 > **Links Úteis**:
-> - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
-> - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
-> - [Gerência de projetos - Trello com Scrum](https://www.youtube.com/watch?v=DHLA8X_ujwo)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+https://trello.com/b/VkMZpClI/gerenciamento-cripto02
 
 ## Ferramentas
 
 As ferramentas empregadas no projeto são:
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de diagramação
+- Editor de código: foi usado o Vs Code 
+- Ferramentas de comunicação : usamos o discord como ferramente de reunião
+- Ferramentas de diagramação : usamos o Figma e o Miro
 
 O editor de código foi escolhido porque ele possui uma integração com o
 sistema de versão. As ferramentas de comunicação utilizadas possuem
@@ -41,10 +35,6 @@ necessidades da nossa solução.
 
 > Liste quais ferramentas foram empregadas no desenvolvimento do
 > projeto, justificando a escolha delas, sempre que possível.
-> 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [![Slack](images/slack.jpg)](https://slack.com/)
-> - [![Trello](images/trello.png)](https://trello.com/)
-> 
-> - [![Microsof Project](images/project.png)](https://products.office.com/pt-br/project/project-and-portfolio-management-software)
-> - [![Redbooth](images/redbooth.png)](https://redbooth.com/)
+> trello : sistema intuitivo
+> figma : otimas opções de montagens
+> miro: liberdade de escolha e montagem
