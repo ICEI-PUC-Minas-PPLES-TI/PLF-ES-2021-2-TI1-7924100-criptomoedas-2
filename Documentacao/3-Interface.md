@@ -6,6 +6,7 @@
 
 ## User Flow
 
+![userflow](https://user-images.githubusercontent.com/83847068/135378512-659f01a1-ce8d-4ee9-8ca7-cf32d2a83843.jpg)
 
 
 ## Protótipo de Baixa Fidelidade
