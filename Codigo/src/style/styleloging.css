@@ -10,7 +10,7 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;
     overflow: overlay;
-    overflow-x: hidden;
+    
 
 }
 
@@ -102,4 +102,12 @@ body{
 footer{
     text-align: center;
     color:black;
+}
+
+
+@media screen and (max-width:1000px){
+    .login-tela{
+        width: 80vw;
+        height: 80vh;
+    }
 }
