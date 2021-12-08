@@ -6,7 +6,8 @@
 
 ## User Flow
 
-![FluxoDeTelas](https://user-images.githubusercontent.com/83847068/145306299-5160f092-846e-414d-bc9b-0ab0769780d1.jpg)
+![image](https://user-images.githubusercontent.com/83847068/145306457-12c2be9c-47da-4961-beb3-54077896dad8.png)
+
 
 
 ## Protótipo de Baixa Fidelidade
