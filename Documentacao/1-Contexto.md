@@ -10,7 +10,6 @@ A partir da contextualização acima, o propósito deste projeto é lidar com a 
 Este trabalho tem como objetivo a criação de um site que seja de fácil leitura para todos os tipos de usuários, juntando informações válidas sobre o mercado de criptomoedas no geral.
 
 # Objetivos principais:
-⦁	Fornecer aos usuários uma aba de fórum para a discussão de assuntos financeiros e envio de sugestões e perguntas para o próprio site;
 
 ⦁	Permitir uma experiência personalizada, possibilitando o recebimento de notícias sobre moedas e assuntos específicos da esolha de cada usuário;
 
