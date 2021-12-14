@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "SiteTiawTemplate",
+			"path": "..\\TIAW\\SiteTiawTemplate"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "SiteTiawTemplate"
+	}
+}
