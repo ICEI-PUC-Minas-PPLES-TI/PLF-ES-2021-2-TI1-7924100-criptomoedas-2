@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gráficos - InfoCrypto</title>
+    <link rel="stylesheet" href="stylegraficos.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Zen+Kurenaido&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="index.html"><img src="imgs/2165458.png" alt="logonavbar"></a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a href="index.html"><img src="imgs/home.png" alt="homelogo"> HOME</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="noticias.html"><img src="imgs/newspaper.png" alt="loginlogo"> NOTÍCIAS </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="graficos.html" .html"><img src="imgs/bar-graph.png" alt="newslogo"> GRÁFICOS </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="conversor.html"><img src="imgs/exchange.png" alt="forumlogo"> CONVERSOR </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="perfilPrincipal.html"><img src="imgs/user.png" alt="userlogo"> PERFIL </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="login.html"><img src="imgs/enter.png" alt="loginlogo"> LOGIN </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+
+    <section>
+        <!-- TradingView Widget BEGIN -->
+        <div class="tradingview-widget-container">
+            <div class="tradingview-widget-container__widget"></div>
+            <div class="tradingview-widget-copyright"><a href="https://br.tradingview.com" rel="noopener"
+                    target="_blank"></a></div>
+            <script type="text/javascript"
+                src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js" async>
+                    {
+                        "symbols": [
+                            {
+                                "proName": "BITSTAMP:ETHUSD",
+                                "title": "Ethereum"
+                            },
+                            {
+                                "description": "",
+                                "proName": "BITSTAMP:BTCUSD"
+                            },
+                            {
+                                "description": "",
+                                "proName": "KRAKEN:ZECUSD"
+                            },
+                            {
+                                "description": "",
+                                "proName": "BINANCE:DOGEUSDT"
+                            },
+                            {
+                                "description": "",
+                                "proName": "BINANCE:SHIBUSDT"
+                            },
+                            {
+                                "description": "",
+                                "proName": "BINANCE:ATOMUSDT"
+                            }
+                        ],
+                            "showSymbolLogo": true,
+                                "colorTheme": "dark",
+                                    "isTransparent": true,
+                                        "displayMode": "adaptive",
+                                            "locale": "br"
+                    }
+                </script>
+        </div>
+        <!-- TradingView Widget END -->
+    </section>
+
+
+    <section mainCripto>
+        <div class="container-fluid">
+
+            <div class="row">
+
+                <div class="graf col-sm-12 col-lg-4 col-xl-4">
+
+                    <img class="criptoLogo" src="imgs/bitcoin.png" alt="bitcoinLogo">
+
+                    <!-- TradingView Widget BEGIN -->
+                    <div class="tradingview-widget-container-">
+                        <div class="tradingview-widget-container__widget"></div>
+                        <div class="tradingview-widget-copyright"><a
+                                href="https://br.tradingview.com/symbols/BTCUSD/?exchange=BITSTAMP" rel="noopener"
+                                target="_blank"></a></div>
+                        <script type="text/javascript"
+                            src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js"
+                            async>
+                                {
+                                    "symbol": "BITSTAMP:BTCUSD",
+                                        "width": "100%",
+                                            "height": "350",
+                                                "locale": "br",
+                                                    "dateRange": "12M",
+                                                        "colorTheme": "dark",
+                                                            "trendLineColor": "rgba(41, 98, 255, 1)",
+                                                                "underLineColor": "rgba(41, 98, 255, 0.3)",
+                                                                    "underLineBottomColor": "rgba(41, 98, 255, 0)",
+                                                                        "isTransparent": false,
+                                                                            "autosize": false,
+                                                                                "largeChartUrl": ""
+                                }
+                            </script>
+                    </div>
+                </div>
+
+
+                <div class="graf col-sm-12 col-lg-4 col-xl-4">
+                    <img class="criptoLogo" src="imgs/ethereum.png" alt="ethereumLogo">
+
+                    <!-- TradingView Widget BEGIN -->
+                    <div class="tradingview-widget-container">
+                        <div class="tradingview-widget-container__widget"></div>
+                        <div class="tradingview-widget-copyright"><a
+                                href="https://br.tradingview.com/symbols/ETHUSD/?exchange=BITSTAMP" rel="noopener"
+                                target="_blank"><span class="blue-text"></a></div>
+                        <script type="text/javascript"
+                            src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js"
+                            async>
+                                {
+                                    "symbol": "BITSTAMP:ETHUSD",
+                                        "width": "100%",
+                                            "height": "350",
+                                                "locale": "br",
+                                                    "dateRange": "12M",
+                                                        "colorTheme": "dark",
+                                                            "trendLineColor": "rgba(41, 98, 255, 1)",
+                                                                "underLineColor": "rgba(41, 98, 255, 0.3)",
+                                                                    "underLineBottomColor": "rgba(41, 98, 255, 0)",
+                                                                        "isTransparent": false,
+                                                                            "autosize": false,
+                                                                                "largeChartUrl": ""
+                                }
+                            </script>
+                    </div>
+                    <!-- TradingView Widget END -->
+                </div>
+
+                <div class="graf col-sm-12 col-lg-4 col-xl-4">
+
+                    <img class="criptoLogo" src="imgs/zcash.png" alt="zcashLogo">
+
+                    <!-- TradingView Widget BEGIN -->
+                    <div class="tradingview-widget-container">
+                        <div class="tradingview-widget-container__widget"></div>
+                        <div class="tradingview-widget-copyright"><a
+                                href="https://br.tradingview.com/symbols/ZECUSD/?exchange=KRAKEN" rel="noopener"
+                                target="_blank"><span class="blue-text"></a></div>
+                        <script type="text/javascript"
+                            src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js"
+                            async>
+                                {
+                                    "symbol": "KRAKEN:ZECUSD",
+                                        "width": "100%",
+                                            "height": "350",
+                                                "locale": "br",
+                                                    "dateRange": "12M",
+                                                        "colorTheme": "dark",
+                                                            "trendLineColor": "rgba(41, 98, 255, 1)",
+                                                                "underLineColor": "rgba(41, 98, 255, 0.3)",
+                                                                    "underLineBottomColor": "rgba(41, 98, 255, 0)",
+                                                                        "isTransparent": false,
+                                                                            "autosize": false,
+                                                                                "largeChartUrl": ""
+                                }
+                            </script>
+                    </div>
+                    <!-- TradingView Widget END -->
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+
+
+
+
+
+
+
+    <section class="grafCripto">
+        <div>
+            <h1>Gráfico Em Tempo Real</h1>
+            <h2>Melhore seus Investimentos</h2>
+
+        </div>
+        <!-- TradingView Widget BEGIN -->
+        <div class="tradingview-widget-container">
+            <div id="tradingview_4f485"></div>
+            <div class="tradingview-widget-copyright"><a
+                    href="https://br.tradingview.com/symbols/BTCUSD/?exchange=BITSTAMP" rel="noopener"
+                    target="_blank"><span class="blue-text">Gráfico BTCUSD</span></a> por TradingView</div>
+            <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
+            <script type="text/javascript">
+                new TradingView.widget(
+                    {
+                        "width": 980,
+                        "height": 610,
+                        "symbol": "BITSTAMP:BTCUSD",
+                        "interval": "D",
+                        "timezone": "Etc/UTC",
+                        "theme": "dark",
+                        "style": "3",
+                        "locale": "br",
+                        "toolbar_bg": "#f1f3f6",
+                        "enable_publishing": false,
+                        "allow_symbol_change": true,
+                        "container_id": "tradingview_4f485"
+                    }
+                );
+            </script>
+        </div>
+        <!-- TradingView Widget END -->
+    </section>
+
+    <section class="moedas">
+      <!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+    <div class="tradingview-widget-container__widget"></div>
+    <div class="tradingview-widget-copyright"><a href="https://br.tradingview.com/markets/cryptocurrencies/prices-all/" rel="noopener" target="_blank"><span class="blue-text">Mercados de Criptomoedas</span></a> por TradingView</div>
+    <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-screener.js" async>
+    {
+    "width": "100%",
+    "height": "400",
+    "defaultColumn": "overview",
+    "screener_type": "crypto_mkt",
+    "displayCurrency": "USD",
+    "colorTheme": "dark",
+    "locale": "br",
+    "isTransparent": false
+  }
+    </script>
+  </div>
+  <!-- TradingView Widget END -->
+    </section>
+
+
+
+
+
+
+
+
+
+
+    <footer>
+        Copyright - InfoCrypto - 2021
+    </footer>
+
+
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>

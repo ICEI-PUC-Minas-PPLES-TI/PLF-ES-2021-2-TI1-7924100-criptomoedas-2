@@ -1,0 +1,212 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Zen Kurenaido', sans-serif;
+}
+
+body{
+    background-image: url(imgs/darkBackground.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    overflow: overlay;  
+}
+
+
+section{
+    margin-bottom: 5%;
+}
+
+/* --------------NAVBAR--------------- */
+.navIMG{    
+    max-width: 10%;
+}
+
+.navbar-nav li{
+    margin-left: 15px;
+    margin-right: 15px;
+    padding-left:30px;
+    padding-right:30px;
+}
+
+.navbar-nav a{
+    color: black;
+    text-decoration: none;
+    font-weight: 800;
+}
+
+.navbar-nav img{
+    max-height: 2rem;
+}
+
+/* --------------NAVBAR--------------- */
+
+
+
+
+/* ---------------------Scroll Bar-----------------------*/
+
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #f1f1f100;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: rgba(136, 136, 136, 0);
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: rgb(0, 0, 0);
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    border-radius: 8px;
+    background: #000000;
+  }
+
+/* --------------------Scroll Bar------------------------ */
+
+
+  
+/* ---------------FOOTER--------------- */
+
+  footer{
+      text-align: center;
+      color:rgb(255, 255, 255);
+  }
+
+/* ---------------FOOTER--------------- */
+
+
+h1, h2, p{
+    color: white;
+    flex-wrap: wrap;
+}
+
+#inicio{
+    padding-top: 100px;
+}
+
+.welcome h1{
+    font-size: 100px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.welcome p{
+    display: flex;
+    font-size: 50px;
+    text-align: center;
+    justify-content: center;
+    
+    
+}
+
+
+.home2 h1, h2{
+    margin-top: 5%;
+    font-size: 80px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.home2 p{
+    font-size: 30px;
+    text-align: center;
+    justify-content: center;
+}
+
+
+.cripimg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+
+/* ---------------HOME3--------- */
+
+.home3 p {
+    font-size: 30px;  
+    margin-left: 20px;
+}
+
+.home3 h1{
+    color: antiquewhite;
+    font-size: 50px;
+    margin-left: 20px;
+}
+
+.imgimpo{
+    display: block;
+    margin: auto;
+    border-radius: 10%;
+    
+}
+
+/* -------------------HOME3---------------------- */
+
+.blockchainTitulo{
+    text-decoration: none;
+    color: white;
+}
+
+.blockChainDiv h1{
+    text-align: center;
+}
+
+.carousel-item{
+    text-align: center;
+  }
+
+.recomend h1{
+    text-align: center;
+}
+
+.blockChainLogo{
+    text-align: center;
+}
+
+.blockChainLogo img{
+    width: 15%;
+}
+
+
+
+
+@media screen and (max-width:1000px) {
+    .embed-responsive-item{
+        width:100%;
+        height:270px;
+    }
+ 
+    .welcome h1{
+        font-size: 80px;
+        text-align: center;
+        font-weight: bold;
+    }
+
+    .center{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 75%;
+    }
+}
+
+
+
+@media (max-width: 1000px)
+{
+  .carousel-inner iframe{
+      width: 100%;
+  }
+}
