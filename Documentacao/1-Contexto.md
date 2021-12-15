@@ -1,7 +1,7 @@
 # Introdução
 
 Do escambo colonial, passando pelo metalismo mercantilista e chegando a bolsa de valores, o ser humano como sociedade sempre buscou por melhores formas de interação monetária para validar e valorizar seu trabalho dentro da mesma. Nesse sentido, as criptomoedas deram sentido a um novo desafio contemporâneo dessa visão econômica, uma vez que, devido sua novidade, ainda causa dúvidas para comunidade internacional. Desse modo, o preconceito e a falta de informação em relação as moedas virtuais inibem que sua utilização alcance potenciais investidores.
-Além disso, levando em consideração uma sociedade altamente politizada e ideológica como o Brasil por exemplo, as criptomoedas seriam fundamentais para aqueles investidores que querem descentralizar o poder do governo sobre seu capital, já que este tipo de moeda permite que os acionistas e investidores tenham total controle sobre suas finanças.
+Além disso, levando em consideração uma sociedade altamente politizada e ideológica como o Brasil por exemplo, as criptomoedas seriam fundamentais para aqueles investidores que querem descentralizar o poder do governo sobre seu capital e ficarem livres de taxas, já que este tipo de moeda permite que os acionistas e investidores tenham total controle sobre suas finanças.
 
 # Problema
 
