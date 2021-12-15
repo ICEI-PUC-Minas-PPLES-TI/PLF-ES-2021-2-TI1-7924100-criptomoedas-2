@@ -24,7 +24,7 @@ https://trello.com/b/VkMZpClI/gerenciamento-cripto02
 As ferramentas empregadas no projeto são:
 
 - Editor de código: foi usado o Vs Code 
-- Ferramentas de comunicação : usamos o discord como ferramente de reunião
+- Ferramentas de comunicação : usamos o discord como ferramenta de reunião
 - Ferramentas de diagramação : usamos o Figma e o Miro
 
 O editor de código foi escolhido porque ele possui uma integração com o
@@ -34,7 +34,8 @@ diagramas utilizamos essa ferramenta por melhor captar as
 necessidades da nossa solução.
 
 > Liste quais ferramentas foram empregadas no desenvolvimento do
-> projeto, justificando a escolha delas, sempre que possível.
-> trello : sistema intuitivo
-> figma : otimas opções de montagens
-> miro: liberdade de escolha e montagem
+> projeto, Justificando a escolha delas, sempre que possível.
+> trello : Sistema intuitivo
+> figma : Ótimas opções de montagens
+> miro: Liberdade de escolha e montagem
+> VSCode: Editor de código de fácil entendimento e possibilita integração com o Git
