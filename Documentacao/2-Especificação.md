@@ -19,9 +19,9 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |   COMO UMA PERSONA    |                   QUERO/PRECISO ...                   |                      PARA QUE...                             |
 |-----------------------|-------------------------------------------------------|--------------------------------------------------------------|
 | Matheus Almeida       | Assistir vídeos explicativos e ler artigos            | Para conhecer sobre criptomoedas                             |
-| Matheus Almeida       | Estudar o surgimento das criptomoedas                 | Para entender o motivo de sua criação                        |
-| Matheus Almeida       | Visualizar Informações sobre projeto                  | Saber se aquela cripto tem futuro ou e só mais uma “modinha” |
-| Matheus Almeida       | Escrever em blogs e fóruns	                          | Discutir sobre cripto com outras pessoas                     |
+| Matheus Almeida       | Estudar os gráficos de cotação das criptomoedas       | Para tomar minhas próprias decisões                          |
+| Carla Rosa            | Estar por dentro de notícias do mercado financeiro    | Para mudar ou reiventar minha carteira de ativos             |
+| Carla Rosa            | Me assegurar do investimento em criptomoedas	        | Para decidir se é um mercado que irá me trazer benefícios    |
 
 
 
@@ -60,9 +60,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
+|ID| Restrição                                                           |
+|--|---------------------------------------------------------------------|
+|01| O projeto deverá ser entregue até o final do semestre               |
 |02| A equipe não pode subcontratar o desenvolvimento do trabalho.       |
 
 
