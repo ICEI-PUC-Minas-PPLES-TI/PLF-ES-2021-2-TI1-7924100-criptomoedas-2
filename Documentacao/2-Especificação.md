@@ -4,46 +4,11 @@
 
 
 ## Personas
-Nome:
-Carla Rosa
-Idade:
-51
-Gênero:
-Feminino
-Escolaridade:
-Formado(a) em Medicina Veterinária
-Ocupação:
-Trabalha em uma clínica veterinária em tempo integral
-Mídias:
-Facebook, Linkedin, Instagram, Whatsapp
-Objetivos:
-Ter uma aposentadoria tranquila, com segurança financeira para viajar o mundo
-Desafios:
-Tem ativos na Bolsa de Valores porém nunca se arriscou no mercado de criptomoedas por medo de ser enganada 
+
+![persona1](https://user-images.githubusercontent.com/83847068/146229736-2f3a8689-19df-4f5a-b856-be4312537ecd.png)
 
 
-
-
-
-
-Nome:
-Matheus Almeida
-Idade:
-26
-Gênero:
-Maculino
-Escolaridade:
-Recém-formado em Administração
-Ocupação:
-Trabalha no setor administrativo de uma grande loja regional 
-Mídias:
-Facebook, Linkedin, Instagram, Whatsapp, Discord, Twitter
-Objetivos:
-Comprar muitos equipamentos eletrônicos de última geração, comprar uma casa no exterior, comprar carros e viajar.
-Desafios:
-Não sabe administrar corretamente o dinheiro, não tem nenhum conhecimento sobre investimentos
-
-
+![persona2](https://user-images.githubusercontent.com/83847068/146229747-fab901a2-ee06-49f2-9472-02b60197a22c.png)
 
 
 
