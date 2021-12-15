@@ -11,12 +11,12 @@
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|COMO UMA `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA QUE... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Matheus Almeida  | Assistir vídeos explicativos e ler artigos           | Para conhecer sobre criptomoedas               |
-|Matheus Almeida       | Estudar o surgimento das criptomoedas                 | Para entender o motivo de sua criação |
-|Matheus Almeida       |  Visualizar Informações sobre projeto                 | Saber se aquela cripto tem futuro ou e só mais uma “modinha” |
-|Matheus Almeida       |  Escrever em blogs e fóruns	                         | Discutir sobre cripto com outras pessoas
+|   COMO UMA PERSONA    |                   QUERO/PRECISO ...                   |                      PARA QUE...                             |
+|-----------------------|-------------------------------------------------------|--------------------------------------------------------------|
+| Matheus Almeida       | Assistir vídeos explicativos e ler artigos            | Para conhecer sobre criptomoedas                             |
+| Matheus Almeida       | Estudar o surgimento das criptomoedas                 | Para entender o motivo de sua criação                        |
+| Matheus Almeida       | Visualizar Informações sobre projeto                  | Saber se aquela cripto tem futuro ou e só mais uma “modinha” |
+| Matheus Almeida       | Escrever em blogs e fóruns	                          | Discutir sobre cripto com outras pessoas                     |
 
 
 
@@ -28,15 +28,14 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| O site deve apresentar na página inicial as informações e dicas sobre o mercado de criptomoedas | ALTA | 
+|RF-001| O site deve apresentar uma página para informações e dicas sobre o mercado de criptomoedas | ALTA | 
 |RF-002| O site deve apresentar na página inicial as cotações das principais criptomoedas   | MÉDIA |
 |RF-003| O site deve apresentar para cada criptomoeda seu valor de mercado, preço, volume de negociações e variação. |  MÉDIA | 
 |RF-004| O site deve permitir ao usuário cadastrar seu login e senha. |  ALTA | 
-|RF-005| O site deve permitir ao usuário criar seu perfil no site assim como colocar uma imagem de perfil. |  MÉDIA | 
-|RF-006| O site deve oferecer uma página adicional que permita o usuário acessar a comunidade de criptomoedas. |  MÉDIA | 
-|RF-007| O site deve permitir ao usuário criar publicações na comunidade. |  ALTA | 
-|RF-008| O site deve permitir ao usuário comentar publicações na comunidade |  MÉDIA | 
-|RF-009| O site deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar um texto específico que será informado na caixa de pesquisa. |  MÉDIA | 
+|RF-005| O site deve oferecer uma página adicional que permita o usuário acessar a comunidade de criptomoedas. |  MÉDIA | 
+|RF-006| O site deve permitir ao usuário criar publicações na comunidade. |  MÉDIA | 
+|RF-007| O site deve permitir ao usuário comentar publicações na comunidade |  MÉDIA | 
+|RF-008| O site deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar um texto específico que será informado na caixa de pesquisa. |  MÉDIA | 
 
 
 ### Requisitos não Funcionais
@@ -44,8 +43,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001|O site deve ser documentado em um ambiente acessível publicamente na Internet (GitHub);  | ALTA | 
-|RNF-002|O site deverá ser responsivo permitindo a visualização em qualquer dispositivo de forma adequada |  BAIXA |
-|RNF-003|O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge) |  BAIXA |
+|RNF-002|O site deverá ser responsivo permitindo a visualização em qualquer dispositivo de forma adequada |  ALTA |
+|RNF-003|O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge) |  ALTA |
 
 
 
