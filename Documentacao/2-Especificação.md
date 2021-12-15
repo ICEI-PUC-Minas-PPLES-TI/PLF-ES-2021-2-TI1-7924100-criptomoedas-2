@@ -41,6 +41,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-006| O site deve permitir ao usuário criar publicações na comunidade. |  MÉDIA | 
 |RF-007| O site deve permitir ao usuário comentar publicações na comunidade |  MÉDIA | 
 |RF-008| O site deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar um texto específico que será informado na caixa de pesquisa. |  MÉDIA | 
+|RF-009| O site deve apresentar uma página com um conversor de moedas para seu valor em determinada criptomoeda. |  ALTA | 
+|RF-010| O site deve permitir ao usuário alterar seu informações do perfil. |  MÉDIA | 
+
 
 
 ### Requisitos não Funcionais
