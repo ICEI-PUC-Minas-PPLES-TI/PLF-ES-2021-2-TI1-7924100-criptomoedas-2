@@ -1,0 +1,25 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: Mercado de Criptomoedas 2
+authors:
+  - family-names: Talma Toledo
+    given-names: Pedro 
+  - family-names: de Paula Nominato Marques
+    given-names: Vinícius  
+  - family-names: Pereira Leite de Melo
+    given-names: Vitor  
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Dias Ferreira da Rocha
+    given-names: Roberto Felipe 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Vieira Carneiro
+    given-names: Rommel 
+keywords:
+  - Mercado
+  - Criptomoedas
+repository-code: https://github.com/ICEI-PUC-Minas-PPLES-TI/PLF-ES-2021-2-TI1-7924100-criptomoedas-2
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2021-12-22
